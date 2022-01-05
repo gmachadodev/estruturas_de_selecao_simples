@@ -6,7 +6,7 @@ Exercícios de estrutura de seleção simples realizados durante o curso técnic
 
   - Por serem códigos em linguagem C necessitam de serem compilados se não forem abertos pelo arquivo .exe mas sim pelo arquivo C.
 
-Enunciado dos exercícios:
+Enunciados dos exercícios:
 
 1) Numa fábrica, uma máquina precisa de manutenção sempre que o número de peças defeituosas supera 10% da produção. Dados o total de peças produzidas e o total de peças defeituosas, informe se a máquina precisa de manutenção.
 
