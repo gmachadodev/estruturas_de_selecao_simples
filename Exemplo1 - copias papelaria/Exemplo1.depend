@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540303670 source:/Users/brunafernandesflesch/Desktop/IFSUL_Controle_Processos_Industriais/Logica_algoritmos/Aulas/Aula13/Exemplo1/main.c
+	<stdio.h>
+	<stdlib.h>
+
